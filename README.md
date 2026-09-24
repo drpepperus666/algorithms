@@ -7,12 +7,12 @@
 
 ```
 Текущий контроль 1-2/
-  Гиперспектр кукурузы.csv               — данные (wavelength; Spectr)
+  Гиперспектр кукурузы.csv — данные (wavelength; Spectr)
   Текущий контроль 1-2.ipynb  — решение 
 
 Текущий контроль 3-4/
-  winequality-red.csv                    — данные (11 признаков + quality)
-  requirements.txt                       — зависимости
+  winequality-red.csv — данные (11 признаков + quality)
+  requirements.txt — зависимости
   Текущий контроль 3-4.ipynb  — решение
 ```
 
@@ -52,7 +52,5 @@ Recall, вывести confusion matrix. Результат — уравнени
 
 1. Нужен Python 3.10+ и пакеты: `numpy pandas matplotlib scikit-learn`
    (`pip install -r "Текущий контроль 3-4/requirements.txt"`).
-2. Открыть ноутбук в Jupyter / VS Code / Colab.
-3. CSV-файл должен лежать рядом с ноутбуком (пути относительные).
-   В Colab — загрузить csv в ту же папку.
-4. Выполнить все ячейки сверху вниз (Run All).
+2. Открыть Jupyter / VS Code / Colab.
+3. Выполнить все ячейки сверху вниз (Run All).
